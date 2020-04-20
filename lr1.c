@@ -9,8 +9,7 @@
 #include <unistd.h>
 #define MAXNLINE 16
 #define MAXNCOLUMN 80
-
-main ()
+int main ()
 {
     int i, j;
     char c;
